@@ -1,6 +1,4 @@
-- Verificar nome e-mail do professor
-- Verificar o inglês do abstract
-- Verificar fotos, citações e referências
+- Citações
 
 Rotina para revisão
 - Verificar a ortografia
@@ -9,12 +7,3 @@ Rotina para revisão
 - Verificar muitas palavras iguais
 - Verificar clareza
 
-=======================================
-
-- Introdução
-- Conjunto de Dados (Citar conjunto de dados)
-- Tecnologias
- - Neo4j
- - Gephi
-- Desenvolvimento
-- Conclusões
